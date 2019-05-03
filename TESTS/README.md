@@ -1,6 +1,6 @@
 # Ficheiros teste com extensões .xml e .dtd
 
-Sao usados para testar o programa
+São usados para testar o programa
 
 # 1
 
