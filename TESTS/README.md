@@ -1,11 +1,19 @@
-#Pasta TEST com ficheiros .xml e .dtd
+# test files
 
-#1
+To be used when testing the acotsp package
 
-#2
+# 1
 
-#3
+Example taken from project description, containing a rich example for XML reading
 
-#4
+# 2
 
-#5
+Test to check if, with an invalid graph, the program does not find a path.
+
+# 3
+
+The example taken from the project description with only one ant.
+
+# 4
+
+# 5
