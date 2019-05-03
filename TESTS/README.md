@@ -1,18 +1,15 @@
-# test files
+# Ficheiros teste com extensões .xml e .dtd
 
-To be used when testing the acotsp package
+Sao usados para testar o programa
 
 # 1
 
-Example taken from project description, containing a rich example for XML reading
 
 # 2
 
-Test to check if, with an invalid graph, the program does not find a path.
 
 # 3
 
-The example taken from the project description with only one ant.
 
 # 4
 
